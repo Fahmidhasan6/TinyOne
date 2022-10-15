@@ -1,0 +1,12 @@
+font<i class="fa-brands fa-apple"></i>
+<i class="fa-brands fa-windows"></i>
+<i class="fa-solid fa-robot"></i>
+-family: 'PT Sans', sans-serif;
+
+icon
+<i class="fa-solid fa-lemon"></i>
+<i class="fa-solid fa-envelope"></i>  me
+<i class="fa-solid fa-code"></i>
+<i class="fa-solid fa-folder"></i>
+<i class="fa-solid fa-mobile-screen"></i>
+<i class="fa-solid fa-bookmark"></i>

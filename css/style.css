@@ -1,0 +1,216 @@
+/* common start */
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size:16px;
+    font-weight: 400;
+    color:#898989;
+
+}
+.c_padding{
+    padding-top: 100px;
+    padding-bottom: 120px;
+
+}
+/* common end */
+/* header start */
+header{
+    background-color:  #fcdb00;
+    padding: 20px 0;
+}
+.c_nav{}
+.logo{}
+.menu{}
+.menu ul li a{
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    padding: 0 60px !important;
+}
+.menu ul li a :last-child{
+    padding-right: 0 !important;
+}
+.menu ul li a:hover{
+    color: white !important;
+}
+/* header end */
+/* slid start */
+.baner01{
+    background-color:#fcdb00;
+    padding-bottom: 80px;
+}
+   
+.slider{
+    
+}
+.c_ind{
+  
+    bottom: -80px;
+ 
+}
+.c_ind [data-bs-target]{
+  
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #e8e2e2;
+}  
+    
+
+.s_text{
+    margin-top: 50px;
+}
+.s_text h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color:#010101;
+}
+
+.s_text h2 {
+    font-size: 20px;
+    font-weight: 400;
+    color:#010101
+}
+.s_text p{
+    color:#010101;
+}
+.s_icon{}
+.s_icon ul  li {
+    margin-right: 30px !important;
+  
+}
+.s_icon ul li i{
+    font-size: 42px;
+    color: #010101;
+ 
+  
+}
+.s_icon ul li i:hover{
+    transform: scale(.8);
+}
+.s_icon img{}
+.s_image{
+    
+}
+/* slid end */
+/* featucer */
+.feature{
+    padding-top: 100px;
+    padding-bottom: 120px;
+
+}
+.c_title{
+    color: #010101;
+
+}
+c_
+.c_h1{
+    margin-bottom: 15px;
+    font-size: 32px;
+    font-weight: 700;
+   
+}
+.c_p{
+    font-size: 20px;
+    color: #313841;
+    line-height: 28px;
+}
+/* feature item */
+.f_item{
+    margin-top: 70px;
+}
+.f_icon{}
+.f_icon i{
+    margin-top: 2px;
+    font-size: 50px;
+    color: #010101;
+    transition: .3s;
+
+
+
+}
+.f_icon i:hover{
+    transform: scale(.8);
+}
+.f_text{}
+.f_text h2{
+    font-size: 22px;
+    font-weight:400 ;
+    color: #010101;
+    margin-bottom: 10px;
+
+}
+.f_text p{
+   letter-spacing: 1px;
+}
+/* contact st */
+.contact{
+    background-color: #010101;
+
+}
+.yellow{
+    color: #fcdb00;
+}
+/* contuct us */
+.c_form{
+    margin-top: 35px;
+    margin-bottom: 70px;
+}
+.c_input{
+  
+    height: 55px;
+    font-family: 'PT Sans', sans-serif;
+    color: #898989;
+    padding: 15px 20px;
+    
+}
+.c_submit{
+    width: 100%;
+    height: 55px;
+    background-color: #fcdb00;
+    font-family: 'PT Sans', sans-serif;
+    font-size:16px;
+    font-weight: 700;
+    color:#010101;
+    text-transform: uppercase;
+
+}
+.c_submit:hover{
+    color: #e8e2e2;
+}
+/* icon */
+.c_icon{}
+.c_icon li{
+    margin-right: 35px !important;
+
+
+}
+.c_icon li:last-child{
+    margin-right: 0 !important;
+}
+.c_icon li i{
+    font-size: 42px;
+    color: #fcdb00;
+    transition: .3s;
+}
+.c_icon li i:hover{
+    color: #e8e2e2;
+}
+/* footer */
+footer{
+    background-color: #010101;
+    padding-bottom: 120px;
+}
+
+.f_1{
+
+}
+.f_1 address{
+    color: #fff;
+}
+.f_2{}
+.f_2 p a{
+    color: white;
+    text-decoration: none;
+}
+
+
